@@ -1,6 +1,5 @@
 'use client'
 
-import { useState } from 'react'
 import { Button } from "@/components/ui/button"
 import {
   Card,
@@ -19,7 +18,7 @@ import Image from "next/image"
 import Link from "next/link"
 
 export default function Component() {
-  const [isMenuOpen, setIsMenuOpen] = useState(false)
+  // const [isMenuOpen, setIsMenuOpen] = useState(false)
 
   return (
     <div className="min-h-screen bg-background">
