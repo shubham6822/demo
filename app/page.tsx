@@ -27,7 +27,7 @@ export default function Component() {
         <div className="container flex items-center justify-between py-4">
           <div className="flex items-center gap-2">
             <Image
-              src="/placeholder.svg?height=50&width=50"
+              src="/globe.svg"
               alt="Anocab Logo"
               width={50}
               height={50}
